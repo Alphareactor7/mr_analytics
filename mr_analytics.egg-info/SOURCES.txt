@@ -1,0 +1,9 @@
+README.md
+setup.py
+mr_analytics/__init__.py
+mr_analytics/mr_analaytics.py
+mr_analytics.egg-info/PKG-INFO
+mr_analytics.egg-info/SOURCES.txt
+mr_analytics.egg-info/dependency_links.txt
+mr_analytics.egg-info/entry_points.txt
+mr_analytics.egg-info/top_level.txt
